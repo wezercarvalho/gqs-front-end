@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Recomendações para executar o projeto:
--> Execute o comando yarn no terminal/CMD dentro do diretório.
+-> Execute o comando `yarn` no terminal/CMD dentro do diretório.
 
--> Após atualizar as dependências, execute yarn start para rodar o projeto.
+-> Após atualizar as dependências, execute `yarn start` para rodar o projeto.
 
 ## Available Scripts
 
